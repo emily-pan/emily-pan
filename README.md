@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emily-pan
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning how to set up my own vpn.
+- 🌱 I’m currently learning how to setup a VPN
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me emily.pan@mail.utoronto.ca
 
