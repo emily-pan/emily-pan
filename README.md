@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emily-pan
 - 👀 I’m interested in Math
-- 🌱 I’m currently studying for Putnam 2021 
+- 🌱 I’m currently studying Statistics
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me emily.pan@mail.utoronto.ca
 
